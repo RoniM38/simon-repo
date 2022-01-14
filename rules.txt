@@ -1,0 +1,11 @@
+This game is based on the "Simon" memory game.
+There will be four different colored squares on the
+screen. The game will consist of a few rounds. In each
+round, the game will randomly choose one of the squares.
+The chosen square will light up and a sound will be played.
+The chosen square will then be added to a sequence. The
+sequence will be played in each round after a new square
+is added to it. You will have to remember the sequence and
+click the right squares according to the sequence. If you
+click the wrong square, the game will end. Good luck!
+For more info, visit::

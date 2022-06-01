@@ -9,4 +9,4 @@ There are four different colored buttons on the screen. In each round, the progr
 remember which button was clicked and click that button. If you click the right one, the game will continue. Else, it will end. In every round, another button will be randomly
 chosen and added to a sequence. The sequence will get longer and longer each round. Your score will be counted and displayed on the screen.
 
-Enjoy ;)
+Enjoy :)
